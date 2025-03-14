@@ -76,13 +76,13 @@ export default function DashboardPage() {
 
   return (
     <SidebarProvider>
-      <div className="flex min-h-screen bg-gray-100 dark:bg-gray-900">
+      <div className="flex min-h-screen bg-gray-100 dark:bg-gray-900" style={{ width: '100%' }}>
         <Sidebar>
           <SidebarHeader>
-            <div className="flex items-center gap-2 px-4 py-2">
-              <Gift className="h-6 w-6 text-primary" />
-              <span className="text-xl font-bold">Naafar Travel</span>
-            </div>
+        <div className="flex items-center gap-2 px-4 py-2">
+          <Gift className="h-6 w-6 text-primary" />
+          <span className="text-xl font-bold">Naafar Travel</span>
+        </div>
           </SidebarHeader>
           <SidebarContent>
             <SidebarMenu>

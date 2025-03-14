@@ -130,7 +130,7 @@ export default function NotificacionesPage() {
 
   return (
     <SidebarProvider>
-      <div className="flex min-h-screen bg-gray-100 dark:bg-gray-900">
+      <div className="flex min-h-screen bg-gray-100 dark:bg-gray-900" style={{ width: '100%' }}>
         <Sidebar>
           <SidebarHeader>
             <div className="flex items-center gap-2 px-4 py-2">
