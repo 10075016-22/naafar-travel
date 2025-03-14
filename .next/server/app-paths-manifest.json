@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/configuracion/page": "app/dashboard/configuracion/page.js",
+  "/dashboard/perfil/page": "app/dashboard/perfil/page.js",
+  "/dashboard/calendario/page": "app/dashboard/calendario/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/login/page": "app/login/page.js",
+  "/dashboard/notificaciones/page": "app/dashboard/notificaciones/page.js",
+  "/page": "app/page.js",
+  "/dashboard/sorteos/page": "app/dashboard/sorteos/page.js"
+}
